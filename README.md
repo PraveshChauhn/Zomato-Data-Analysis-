@@ -8,7 +8,7 @@ Data Analysis Questions
 # Restaurant Popularity:
 
 > What type of restaurant do the majority of customers order from?
->How many votes has each type of restaurant received from customers?
+> How many votes has each type of restaurant received from customers?
 
 # Restaurant Ratings:
 
